@@ -2,9 +2,6 @@
 
 namespace Domain\Chat;
 
-// По не понятной причине не подтягивается класс User
-//require_once "C:\Users\glazy\PhpstormProjects\lab_6\src\Domain\Entity\User.php";
-
 use Domain\Entity\Message;
 use Domain\Entity\User;
 use Domain\Repository\MessageRepository;
